@@ -53,7 +53,7 @@ serie_descuento :{
 },
 serie_estado :{
     type: "string",
-    required: true,
+    required: true
     
 }
 
