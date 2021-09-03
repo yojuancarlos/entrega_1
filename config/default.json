@@ -1,0 +1,19 @@
+{
+"db-connections":{
+    "mongodb":{
+    "host":"cluster0.hlh2c.mongodb.net",
+    "user":"juancarlos313",
+    "password":"juancarlos313",
+    "dbname":"AcademicDb"
+    }
+
+},
+"secretkeys":{
+    "cryptojs":"h2hkjdhkj2"
+},
+"roles":{
+    "student":1,
+    "teacher":2
+},
+"server-port":3000
+}
